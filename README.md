@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Create React App [Live Link](https://amarjeet2003gupta.github.io/Translator-App-React-JS/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
