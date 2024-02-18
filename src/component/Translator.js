@@ -60,6 +60,7 @@ function Translator(){
             seTtoText(data.responseData.translatedText);
             setLoading(false);
         })
+        setLoading(false);
     }
 
     return (
